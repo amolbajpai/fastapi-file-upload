@@ -28,7 +28,7 @@ To run this project, you need:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/fastapi-file-upload.git
+git clone https://github.com/amolbajpai/fastapi-file-upload.git
 cd fastapi-file-upload
 ```
 
